@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.example</groupId>
-        <artifactId>MultiModule</artifactId>
+        <groupId>com.cynte</groupId>
+        <artifactId>multi-module</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>module-a</artifactId>
@@ -16,4 +16,5 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
 </project>
